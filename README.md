@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @Dv1704
-- 👀 I’m interested in ... Data analysis
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Data analysis ...
-- 📫 How to reach me ...
-victorolanikanju@gmail.com
-<!---
-Dv1704/Dv1704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+👨‍💼 Data Scientist | Machine Learning Engineer | Data Enthusiast
+
+🔍 Data-driven decision-maker with a passion for unraveling complex problems and extracting insights from data.
+
+📊 Experienced in building end-to-end machine learning solutions, from data preprocessing to model deployment.
+
+🛠️ Proficient in Python,  SQL, and various data science libraries and frameworks like scikit-learn, TensorFlow, and PyTorch.
+
+📈 Skilled in statistical analysis, hypothesis testing, and predictive modeling to drive business growth and innovation.
+
+🌐 Strong advocate for open-source contributions, with a commitment to sharing knowledge and collaborating on data science projects.
+
+💬 Let's connect and discuss the exciting world of data science! Always open to new challenges and opportunities.
+
 --->
