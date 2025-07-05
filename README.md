@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://files.oaiusercontent.com/file-0000000073bc622fa748ef8629185d22" width="150px" alt="dv1704 Avatar" style="border-radius:50%">
+
   <h1>Hi there! I'm dv1704 👋</h1>
   <h3>🚀  Go Engineer | 🧠 Blockchain Architect | 🦀 Rust Developer</h3>
 </div>
