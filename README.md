@@ -75,6 +75,7 @@ Here are some highlights of my work, showcasing my skills in building robust and
 * A comprehensive e-commerce platform showcasing full-stack web development capabilities.
 * **Tech Stack:** `JavaScript` <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS Badge" /> | `Node.js` <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge" />
 * **[Explore the Code](https://github.com/Dv1704/farmshop)** 🛒
+* **[live at](https://farmshop-d2ax.onrender.com/)**
 
 #### 📦 Rust Compression Engine CLI
 [![Rust Compression Engine Preview](https://github.com/Dv1704/compression_engine/assets/75949503/6e885d51-6101-4475-8167-7b649d606132)](https://github.com/Dv1704/compression_engine)
